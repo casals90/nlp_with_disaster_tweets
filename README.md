@@ -6,3 +6,10 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 But, it’s not always clear whether a person’s words are actually announcing a disaster. 
 
 In this competition, you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. You’ll have access to a dataset of 10,000 tweets that were hand classified.
+
+#### Submission
+| Score | Position |
+| ------ | ---------|
+| 81.79 | 784 of 2718 |
+
+[https://www.kaggle.com/c/nlp-getting-started/overview](https://www.kaggle.com/c/nlp-getting-started/overview)
