@@ -10,6 +10,6 @@ In this competition, you’re challenged to build a machine learning model that 
 #### Submission
 | Score | Position |
 | ------ | ---------|
-| 81.79 | 784 of 2718 |
+| 83.231 | 468     |
 
 [https://www.kaggle.com/c/nlp-getting-started/overview](https://www.kaggle.com/c/nlp-getting-started/overview)
